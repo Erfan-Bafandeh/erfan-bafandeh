@@ -115,7 +115,7 @@
 
 <br clear="both">
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20reading.&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
 </div>
 
